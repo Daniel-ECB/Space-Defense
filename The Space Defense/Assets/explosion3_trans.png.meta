@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 452bc08f4c1c1314da6b76d5fde0f5d0
+timeCreated: 1500255470
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: explosion3_trans_0
+    21300002: explosion3_trans_1
+    21300004: explosion3_trans_2
+    21300006: explosion3_trans_3
+    21300008: explosion3_trans_4
+    21300010: explosion3_trans_5
+    21300012: explosion3_trans_6
+    21300014: explosion3_trans_7
+    21300016: explosion3_trans_8
+    21300018: explosion3_trans_9
+    21300020: explosion3_trans_10
+    21300022: explosion3_trans_11
+    21300024: explosion3_trans_12
+    21300026: explosion3_trans_13
+    21300028: explosion3_trans_14
+    21300030: explosion3_trans_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: explosion3_trans_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 292
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 284
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 277
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 277
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 180
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 183
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 181
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 182
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 185
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 16
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 16
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 17
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 18
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: explosion3_trans_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 22
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
